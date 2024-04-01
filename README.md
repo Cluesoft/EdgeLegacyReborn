@@ -112,11 +112,14 @@ Before you begin, you will need:
    git clone https://github.com/Cluesoft/EdgeLegacyReborn.git
    ```
 2. Open the solution
+   
    It can be found in the folder you downloaded the project at.
 3. Build the project
+   
    Right click and build it.
 4. Run it
-5. Click on "Run without debugging" if you get an exception error.
+   
+   Click on "Run without debugging" if you get an exception error.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
