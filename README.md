@@ -171,17 +171,6 @@ Distributed under the GNU V3 License. See `LICENSE.txt` for more information.
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Working Browser]()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Cluesoft/EdgeLegacyReborn.svg?style=for-the-badge
